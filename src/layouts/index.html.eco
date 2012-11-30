@@ -15,28 +15,29 @@ layout: default
                   <tbody>
                     <tr>
                       <td><h3>Birth</h3></td>
-                      <td>05 June 1984</td>
+                      <td>18 January 1992</td>
                     </tr>
                     <tr>
                       <td><h3>Address</h3></td>
-                      <td>150 5th Avenue, NY</td>
+                      <td>Russia, Samarskaya obl.</td>
                     </tr>
                     <tr>
                       <td><h3>Phone</h3></td>
-                      <td>15 3333-8854</td>
+                      <td>+79023705369</td>
                     </tr>
                     <tr>
                       <td><h3>Mail</h3></td>
-                      <td>contato@ficticio.com</td>
+                      <td>shariktlt@gmail.com</td>
                     </tr>
                   </tbody>
                 </table>
             </div>
             <div id="social">
-                <a href="#" class="tooltip-test" data-original-title="Facebook"><img src="img/facebook.png"></a>
-                <a href="#" class="tooltip-test" data-original-title="Google +"><img src="img/google.png"></a>
-                <a href="#" class="tooltip-test" data-original-title="Twitter"><img src="img/twitter.png"></a>
-                <a href="#" class="tooltip-test" data-original-title="Youtube"><img src="img/youtube.png"></a>
+                <a href="http://facebook.com/shariktlt" class="tooltip-test" data-original-title="Facebook"><img src="img/facebook.png"></a>
+                <a href="https://plus.google.com/115612317273417965769" class="tooltip-test" data-original-title="Google +"><img src="img/google.png"></a>
+                <a href="http://twitter.com/shariktlt" class="tooltip-test" data-original-title="Twitter"><img src="img/twitter.png"></a>
+
+                <a style="display:none" href="#" class="tooltip-test" data-original-title="Youtube"><img src="img/youtube.png"></a>
           </div>
         </div>
     </div>
